@@ -1,0 +1,11 @@
+{
+  "org": "construct",
+  "repo": "construct",
+  "versions": [
+    {
+      "commit": "28c6e5779f2b76d55474914607291a3821502000",
+      "tag": "",
+      "parsed_at": "2026-10-19T13:40:52.246870+00:00"
+    }
+  ]
+}
